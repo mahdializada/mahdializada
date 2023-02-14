@@ -1,5 +1,10 @@
 ### Hi there 👋
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mahdi.alizada.71/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mahdi_alizada_313/)
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahdializada)
+[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahdializada761@gmail.com)
 
+- 📫 How to reach me: <a href="tel:+93700985918"> (+93) 700 985 918</a>
 <!--
 **mahdializada/mahdializada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
