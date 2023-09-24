@@ -33,8 +33,7 @@ Here are some ideas to get you started:
 ### :hammer_and_wrench: Languages and Tools :
 <br/>
 <br/>
-<div>
-  
+<div>  
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
   <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp; -->
@@ -67,4 +66,5 @@ Here are some ideas to get you started:
    <a href="https://github-readme-streak-stats.herokuapp.com">
         <img width="49%" alt="Streak Stats" src="https://github-readme-stats-rust-three.vercel.app/api/top-langs/?username=mahdializada&hide=Rich%20Text&langs_count=20&layout=compact&theme=tokyonight"/>
     </a>
+
 
