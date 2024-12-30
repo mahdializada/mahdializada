@@ -56,7 +56,6 @@ Here are some ideas to get you started:
 
 
 
-
  <a href="https://github-readme-stats.vercel.app">
         <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=mahdializada&theme=onedark&custom_title=GitHub+Stats&hide_border=true"/>
     </a>
