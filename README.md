@@ -42,8 +42,10 @@
 ### 💻 Backend
 ![Laravel](https://img.shields.io/badge/-Laravel-F05340?logo=laravel&logoColor=white&style=flat-square)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white&style=flat-square)
 ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat-square)
 ![Elixir](https://img.shields.io/badge/-Elixir-4B275F?logo=elixir&logoColor=white&style=flat-square)
+
 
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
