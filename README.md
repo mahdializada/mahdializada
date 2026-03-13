@@ -1,24 +1,21 @@
 <div align="center">
 
-
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohammad%20Mahdi%20Alizada&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Laravel%20%7C%20Vue.js%20%7C%20Node.js%20%7C%20DevOps&descAlignY=55&descSize=16"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohammad%20Mahdi%20Alizada&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Laravel%20%7C%20Vue.js%20%7C%20Node.js%20%7C%20NestJS%20%7C%20Next.js&descAlignY=55&descSize=15"/>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=5%2B+Years+of+Full+Stack+Development;Building+Scalable+Real-Time+Systems;Laravel+%7C+Vue.js+%7C+React+%7C+Node.js;JavaScript+%7C+NestJS+%7C+Next.js;Clean+Code+%7C+Strong+DevOps+Mindset" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=650&lines=6%2B+Years+of+Full+Stack+Development;Laravel+%7C+Node.js+%7C+NestJS+%7C+Vue.js+%7C+Next.js;Real-Time+Systems+%7C+WebSockets+%7C+Redis;Chat+System+Handling+100M%2B+Messages;Clean+Architecture+%7C+DevOps+%7C+Docker+%7C+AWS" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Profile Views & Socials -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=mahdializada&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=mahdializada&label=Profile+Views&color=0e75b6&style=flat-square"/>
   &nbsp;
-  <img src="https://img.shields.io/github/followers/mahdializada?label=Followers&style=flat-square&color=0e75b6" alt="Followers"/>
+  <img src="https://img.shields.io/github/followers/mahdializada?label=Followers&style=flat-square&color=0e75b6"/>
 </p>
 
-<!-- Social Badges -->
 <p>
   <a href="mailto:mahdializada761@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -32,6 +29,9 @@
   <a href="https://wa.me/93700985918" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
+  <a href="https://www.facebook.com/mahdi.alizada.71" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
   <a href="https://www.instagram.com/mahdi_alizada_313" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
@@ -44,13 +44,27 @@
 ## 🧑‍💻 About Me
 
 ```txt
-🎓  B.Sc Computer Science — Kabul Polytechnic University
-💼  Backend Developer @ Tooti Sabz  |  Previously @ Tara Solutions & Smart Friqi
+🎓  B.Sc Computer Science — Kabul Polytechnic University (2018–2023)
+💼  Full Stack Developer @ Peace Global Logistics (PGL)  |  Current
+💼  Previously @ Tooti Sabz · Tara Solutions · Smart Friqi · TechLand Organization
 📍  Kabul, Afghanistan
-⚡  5+ Years of full-stack experience building production-grade systems
-🚀  Engineered real-time systems handling 100M+ messages using Node.js & WebSockets
-🧠  Passionate about clean architecture, performance optimization & scalable design
-🌐  Persian (Native)  |  English (C1)
+⚡  6+ Years of full-stack experience building production-grade systems
+🚀  Built a real-time chat system (Elixir/Phoenix) handling 100M+ messages — WhatsApp-scale
+🧠  Expert in clean architecture, microservices, REST/GraphQL APIs & event-driven systems
+☁️  Hands-on with Docker, CI/CD, AWS & DigitalOcean cloud deployments
+🌐  Dari (Native)  |  English (C1 Listening · B2 Reading & Speaking)
+```
+
+---
+
+## 💼 Work Experience
+
+```txt
+🏢  Peace Global Logistics (PGL)      →  Full Stack Developer       [ May 2025 – Present  ]
+🏢  Tooti Sabz                        →  Backend Developer          [ Jul 2024 – Jun 2025 ]
+🏢  Tara Solutions                    →  Full Stack Developer        [ Jan 2024 – Mar 2025 ]
+🏢  Smart Friqi                       →  Full Stack Developer        [ Feb 2022 – Feb 2024 ]
+🏢  TechLand Organization             →  Web Developer & Designer   [ Jan 2020 – Aug 2021 ]
 ```
 
 ---
@@ -65,19 +79,23 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vuex](https://img.shields.io/badge/Vuex-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Pinia](https://img.shields.io/badge/Pinia-FFD859?style=for-the-badge&logo=vue.js&logoColor=black)
 
 ### ⚙️ Backend
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-F05340?style=for-the-badge&logo=laravel&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=websocket&logoColor=white)
+![Pusher](https://img.shields.io/badge/Pusher-300D4F?style=for-the-badge&logo=pusher&logoColor=white)
 
 ### 🗄️ Databases & Caching
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -88,8 +106,11 @@
 ### 🔧 DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
@@ -103,10 +124,12 @@
 
 | 🚀 Project | 🛠 Stack | 📋 Highlights |
 |:-----------|:---------|:--------------|
-| **[🔵 Tooti Chat Service](https://inkd.in/ebiSG5Si)** | Node.js · Socket.io · WebSockets | Real-time chat system powering **100M+ messages** with scalable concurrent architecture |
-| **[🌐 Tara Solutions Website](https://www.tarasolutions.cloud)** | React · Next.js · Tailwind CSS | High-performance corporate website with modern UI, SEO optimization & fast page loads |
-| **🏪 Shahre-Kodak ERP** | Laravel · React · MySQL | Full-featured ERP for chain retail — HR, inventory, sales pipeline & advanced reporting |
-| **📊 DAWEO MIS** | Laravel · React · PostgreSQL | NGO management system with multi-province data, role-based access & field reporting |
+| **[🔵 Tooti Chat Service](https://inkd.in/ebiSG5Si)** | Elixir · Phoenix · WebSockets | WhatsApp-scale real-time chat handling **100M+ messages** with fault-tolerant concurrent architecture |
+| **[🌐 Tooti Social Platform](https://inkd.in/ebiSG5Si)** | Laravel · React.js · Redis | Full social application with real-time features, admin panel & chat support management system |
+| **[🏢 Tara Solutions Website](https://www.tarasolutions.cloud)** | React · Next.js · Tailwind · shadcn/ui | High-performance corporate website with SSR, SEO optimization & modern design system |
+| **🏪 Shahre-Kodak ERP** | Laravel · React · MySQL | Complete chain store ERP — HR, inventory, sales, product & store management |
+| **📊 DAWEO MIS** | Laravel · React · PostgreSQL | NGO MIS covering 3 provinces — patient mgmt, vocational training, reports & evaluations |
+| **📋 Smart Friqi MIS** | Laravel · Nuxt.js · MySQL | Internal MIS & user management platform for multi-department company operations |
 
 </div>
 
@@ -125,7 +148,5 @@
 </div>
 
 ---
-
-
 
 <div align="center">
