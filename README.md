@@ -57,8 +57,8 @@
 ```txt
 🏢  Peace Global Logistics (PGL)      →  Full Stack Developer       [ May 2025 – Present  ]
 🏢  Tooti Sabz                        →  Backend Developer          [ Jul 2024 – Jun 2025 ]
-🏢  Tara Solutions                    →  Full Stack Developer        [ Jan 2024 – Mar 2025 ]
-🏢  Smart Friqi                       →  Full Stack Developer        [ Feb 2022 – Feb 2024 ]
+🏢  Tara Solutions                    →  Full Stack Developer       [ Jan 2024 – Mar 2025 ]
+🏢  Smart Friqi                       →  Full Stack Developer       [ Feb 2022 – Feb 2024 ]
 🏢  TechLand Organization             →  Web Developer & Designer   [ Jan 2020 – Aug 2021 ]
 ```
 
