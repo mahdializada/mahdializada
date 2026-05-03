@@ -1,27 +1,41 @@
+<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
+<!-- ║            ✨  MOHAMMAD MAHDI ALIZADA — GITHUB README  ✨            ║ -->
+<!-- ║                  Full Stack Architect · Crafted with ❤              ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
+
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohammad%20Mahdi%20Alizada&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Laravel%20%7C%20Vue.js%20%7C%20Node.js%20%7C%20NestJS%20%7C%20Next.js&descAlignY=55&descSize=15"/>
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!--                       🌌 HERO BANNER · ANIMATED                       -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=650&lines=6%2B+Years+of+Full+Stack+Development;Laravel+%7C+Node.js+%7C+NestJS+%7C+Vue.js+%7C+Next.js;Real-Time+Systems+%7C+WebSockets+%7C+Redis;Chat+System+Handling+100M%2B+Messages;Clean+Architecture+%7C+DevOps+%7C+Docker+%7C+AWS" alt="Typing SVG" />
+<a href="https://github.com/mahdializada">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=280&section=header&text=Mohammad%20Mahdi%20Alizada&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=%E2%9C%A6%20%20Full%20Stack%20Developer%20%20%E2%9C%A6&descAlignY=56&descSize=18&stroke=00d9ff&strokeWidth=1"/>
+</a>
+
+<!-- 🌠 Glowing typing tagline -->
+<a href="https://github.com/mahdializada">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=00D9FF&center=true&vCenter=true&random=false&width=780&height=65&lines=Hi+there%2C+I'm+Mahdi+%F0%9F%91%8B;Crafting+systems+that+scale+to+millions+%E2%9A%A1;Architect+of+a+100M%2B+message+real-time+platform;Laravel+%E2%80%A2+Node.js+%E2%80%A2+NestJS+%E2%80%A2+Vue+%E2%80%A2+Next.js+%E2%80%A2+Elixir;Let's+build+something+extraordinary+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
 
+<!-- 📊 Profile Metrics -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=mahdializada&label=Profile+Views&color=0e75b6&style=flat-square"/>
+  <img src="https://komarev.com/ghpvc/?username=mahdializada&label=PROFILE+VIEWS&color=00d9ff&style=for-the-badge"/>
   &nbsp;
-  <img src="https://img.shields.io/github/followers/mahdializada?label=Followers&style=flat-square&color=0e75b6"/>
+  <img src="https://img.shields.io/github/followers/mahdializada?label=FOLLOWERS&style=for-the-badge&color=00d9ff&labelColor=0d1117"/>
+  &nbsp;
+  <img src="https://img.shields.io/github/stars/mahdializada?label=STARS&style=for-the-badge&color=00d9ff&labelColor=0d1117"/>
 </p>
 
+<!-- 📡 Connect With Me -->
 <p>
   <a href="mailto:mahdializada761@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/mohammad-mahdi-alizada-3a57b2274" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/mahdializada" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -29,122 +43,376 @@
   <a href="https://wa.me/93700985918" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
-    <a href="https://mahdi-alizada-portfolio.vercel.app/" target="_blank">
+  <a href="https://mahdi-alizada-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
- 
 </p>
 
 </div>
 
----
+<br/>
 
-## 🧑‍💻 About Me
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!--                            🧑‍💻  ABOUT ME                              -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-```txt
-🎓  B.Sc Computer Science — Kabul Polytechnic University (2018–2023)
-💼  Full Stack Developer @ Peace Global Logistics (PGL)  |  Current
-💼  Previously @ Tooti Sabz · Tara Solutions · Smart Friqi · TechLand Organization
-📍  Kabul, Afghanistan
-⚡  6+ Years of full-stack experience building production-grade systems
-🚀  Built a real-time chat system (Elixir/Phoenix) handling 100M+ messages — WhatsApp-scale
-🧠  Expert in clean architecture, microservices, REST/GraphQL APIs & event-driven systems
-☁️  Hands-on with Docker, CI/CD, AWS & DigitalOcean cloud deployments
-🌐  Dari (Native)  |  English (C1 Listening · B2 Reading & Speaking)
-```
+<h2 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"/>
+  &nbsp; About Me &nbsp;
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"/>
+</h2>
 
----
+<table align="center" width="100%">
+<tr>
+<td width="58%" valign="top">
 
-## 💼 Work Experience
+<br/>
 
-```txt
-🏢  Peace Global Logistics (PGL)      →  Full Stack Developer       [ May 2025 – Present  ]
-🏢  Tooti Sabz                        →  Backend Developer          [ Jul 2024 – Jun 2025 ]
-🏢  Tara Solutions                    →  Full Stack Developer       [ Jan 2024 – Mar 2025 ]
-🏢  Smart Friqi                       →  Full Stack Developer       [ Feb 2022 – Feb 2024 ]
-🏢  TechLand Organization             →  Web Developer & Designer   [ Jan 2020 – Aug 2021 ]
-```
+🎯 &nbsp; **Full Stack Architect** with **6+ years** of production experience  
+🎓 &nbsp; **B.Sc Computer Science** — Kabul Polytechnic University · *2018 – 2023*  
+💼 &nbsp; Currently building scalable systems **@ Peace Global Logistics**  
+📍 &nbsp; Based in **Kabul, Afghanistan** 🇦🇫  
 
----
+<br/>
 
-## 🛠️ Tech Stack & Tools
+#### ⚡ &nbsp; What I'm great at
+
+✦ &nbsp; Designing **clean, scalable architectures** for production systems  
+✦ &nbsp; Building **microservices** and **event-driven** platforms  
+✦ &nbsp; Crafting **real-time systems** — WebSockets, Redis, message queues  
+✦ &nbsp; Architecting **REST & GraphQL APIs** with rock-solid contracts  
+✦ &nbsp; Shipping with **Docker · CI/CD · AWS · DigitalOcean**  
+
+<br/>
+
+#### 🚀 &nbsp; Proudest achievement
+
+> Architected a **real-time chat system** in **Elixir / Phoenix** that handles  
+> **100M+ messages** with WhatsApp-scale fault tolerance and concurrency.
+
+<br/>
+
+#### 🌍 &nbsp; Languages
+
+<kbd>&nbsp;**Dari**&nbsp;·&nbsp;Native&nbsp;</kbd>
+&nbsp;
+<kbd>&nbsp;**English**&nbsp;·&nbsp;C1 Listening · B2 Reading & Speaking&nbsp;</kbd>
+
+</td>
+<td width="42%" valign="top" align="center">
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="100%"/>
+
+<br/><br/>
+
+> ### 💡
+> ***"Great software is not written —***  
+> ***it's crafted, refined, and built***  
+> ***to scale beyond imagination."***
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!--                       💼  WORK EXPERIENCE TIMELINE                    -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+<h2 align="center">
+  💼 Career Journey
+</h2>
 
 <div align="center">
 
-### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vuex](https://img.shields.io/badge/Vuex-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Pinia](https://img.shields.io/badge/Pinia-FFD859?style=for-the-badge&logo=vue.js&logoColor=black)
-
-### ⚙️ Backend
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-F05340?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
-![Pusher](https://img.shields.io/badge/Pusher-300D4F?style=for-the-badge&logo=pusher&logoColor=white)
-
-### 🗄️ Databases & Caching
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### 🔧 DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<table>
+<tr>
+<th>📅 Period</th>
+<th>🏢 Company</th>
+<th>👨‍💻 Role</th>
+<th>⚡ Status</th>
+</tr>
+<tr>
+<td><b>May 2025 — Present</b></td>
+<td>Peace Global Logistics (PGL)</td>
+<td>Full Stack Developer</td>
+<td><img src="https://img.shields.io/badge/Current-00C853?style=flat-square&logo=verizon&logoColor=white"/></td>
+</tr>
+<tr>
+<td>Jul 2024 — Jun 2025</td>
+<td>Tooti Sabz</td>
+<td>Backend Developer</td>
+<td><img src="https://img.shields.io/badge/Completed-607D8B?style=flat-square"/></td>
+</tr>
+<tr>
+<td>Jan 2024 — Mar 2025</td>
+<td>Tara Solutions</td>
+<td>Full Stack Developer</td>
+<td><img src="https://img.shields.io/badge/Completed-607D8B?style=flat-square"/></td>
+</tr>
+<tr>
+<td>Feb 2022 — Feb 2024</td>
+<td>Smart Friqi</td>
+<td>Full Stack Developer</td>
+<td><img src="https://img.shields.io/badge/Completed-607D8B?style=flat-square"/></td>
+</tr>
+<tr>
+<td>Jan 2020 — Aug 2021</td>
+<td>TechLand Organization</td>
+<td>Web Developer & Designer</td>
+<td><img src="https://img.shields.io/badge/Completed-607D8B?style=flat-square"/></td>
+</tr>
+</table>
 
 </div>
 
----
+<br/>
 
-## 🏆 Featured Projects
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!--                          🛠  TECH ARSENAL                             -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+<h2 align="center">
+  🛠️ Tech Arsenal
+</h2>
 
 <div align="center">
 
-| 🚀 Project | 🛠 Stack | 📋 Highlights |
-|:-----------|:---------|:--------------|
-| **[🔵 Tooti Chat Service](https://inkd.in/ebiSG5Si)** | Elixir · Phoenix · WebSockets | WhatsApp-scale real-time chat handling **100M+ messages** with fault-tolerant concurrent architecture |
-| **[🌐 Tooti Social Platform](https://inkd.in/ebiSG5Si)** | Laravel · React.js · Redis | Full social application with real-time features, admin panel & chat support management system |
-| **[🏢 Tara Solutions Website](https://www.tarasolutions.cloud)** | React · Next.js · Tailwind · shadcn/ui | High-performance corporate website with SSR, SEO optimization & modern design system |
-| **🏪 Shahre-Kodak ERP** | Laravel · React · MySQL | Complete chain store ERP — HR, inventory, sales, product & store management |
-| **📊 DAWEO MIS** | Laravel · React · PostgreSQL | NGO MIS covering 3 provinces — patient mgmt, vocational training, reports & evaluations |
-| **📋 Smart Friqi MIS** | Laravel · Nuxt.js · MySQL | Internal MIS & user management platform for multi-department company operations |
+### 🎨 &nbsp; Frontend Mastery
+
+<a href="#"><img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,nuxt,react,nextjs,tailwind&theme=dark" /></a>
+
+### ⚙️ &nbsp; Backend Powerhouse
+
+<a href="#"><img src="https://skillicons.dev/icons?i=php,laravel,nodejs,nestjs,express,elixir,graphql,socketio&theme=dark" /></a>
+
+### 🗄️ &nbsp; Databases & Caching
+
+<a href="#"><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&theme=dark" /></a>
+
+### 🚀 &nbsp; DevOps & Cloud
+
+<a href="#"><img src="https://skillicons.dev/icons?i=docker,git,github,linux,nginx,aws,vercel,bash&theme=dark" /></a>
+
+### 🧰 &nbsp; Tools & Workflow
+
+<a href="#"><img src="https://skillicons.dev/icons?i=vscode,postman,figma,npm,yarn,vite,webpack&theme=dark" /></a>
 
 </div>
 
----
+<br/>
 
-## 📊 GitHub Statistics
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!--                       🏆  FEATURED PROJECTS                            -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+<h2 align="center">
+  🏆 Featured Projects
+</h2>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mahdializada&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117&title_color=6AD3F7&icon_color=6AD3F7" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mahdializada&theme=tokyonight&hide_border=true&background=0D1117&ring=6AD3F7&fire=FF6B6B&currStreakLabel=6AD3F7" />
+
+<table>
+
+<!-- Row 1 -->
+<tr>
+<td width="50%" valign="top">
+
+#### 🔵 &nbsp; [Tooti Chat Service](https://inkd.in/ebiSG5Si)
+
+> ⚡ **WhatsApp-scale real-time chat handling 100M+ messages**
+
+A fault-tolerant, concurrent messaging engine architected for extreme scale, leveraging the BEAM VM's actor model.
+
+<p>
+<img src="https://img.shields.io/badge/Elixir-4B275F?style=flat-square&logo=elixir&logoColor=white"/>
+<img src="https://img.shields.io/badge/Phoenix-FF6600?style=flat-square&logo=phoenixframework&logoColor=white"/>
+<img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socket.io&logoColor=white"/>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+#### 🌐 &nbsp; [Tooti Social Platform](https://inkd.in/ebiSG5Si)
+
+> 🌟 **Full social application with admin & support systems**
+
+End-to-end social platform with real-time features, admin panel, content moderation, and chat-based support management.
+
+<p>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+</p>
+
+</td>
+</tr>
+
+<!-- Row 2 -->
+<tr>
+<td width="50%" valign="top">
+
+#### 🏢 &nbsp; [Tara Solutions Website](https://www.tarasolutions.cloud)
+
+> 🚀 **High-performance corporate website with SSR & SEO**
+
+Modern corporate site with server-side rendering, design-system architecture, and pixel-perfect responsive UI.
+
+<p>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/shadcn/ui-000000?style=flat-square&logo=shadcnui&logoColor=white"/>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+#### 🏪 &nbsp; Shahre-Kodak ERP
+
+> 📦 **Complete chain-store ERP system**
+
+End-to-end enterprise resource planning covering HR, inventory, sales, product catalog, and multi-branch store management.
+
+<p>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+</p>
+
+</td>
+</tr>
+
+<!-- Row 3 -->
+<tr>
+<td width="50%" valign="top">
+
+#### 📊 &nbsp; DAWEO MIS
+
+> 🏥 **NGO Management Information System**
+
+A 3-province MIS for NGO operations: patient management, vocational training tracking, evaluations, and analytical reporting.
+
+<p>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+#### 📋 &nbsp; Smart Friqi MIS
+
+> 👥 **Internal MIS & user management platform**
+
+Multi-department company operations platform with role-based access, workflows, and real-time dashboards.
+
+<p>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=nuxt.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+</p>
+
+</td>
+</tr>
+
+</table>
+
 </div>
 
+<br/>
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!--                          📊  GITHUB ANALYTICS                          -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+<h2 align="center">
+  📊 GitHub Analytics
+</h2>
+
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdializada&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&langs_count=8" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=mahdializada&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6AD3F7&line=6AD3F7&point=FF6B6B" />
+
+<a href="https://github.com/mahdializada">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=mahdializada&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&cache_seconds=14400" />
+</a>
+<a href="https://github.com/mahdializada">
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=mahdializada&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=8B949E" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/mahdializada">
+  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdializada&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=10&card_width=480&cache_seconds=14400" />
+</a>
+
 </div>
 
----
+<br/>
+
+<!-- 🏆 GitHub Trophies -->
+<div align="center">
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=mahdializada&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
+</a>
+
+</div>
+
+<br/>
+
+<!-- 📈 Contribution Activity Graph -->
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mahdializada&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&area=true&area_color=00D9FF" />
+
+</div>
+
+<br/>
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!--                       🤝  LET'S CONNECT                                -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+<h2 align="center">
+  🤝 Let's Build Something Amazing Together
+</h2>
 
 <div align="center">
+
+<p>
+  <i>I'm always open to new opportunities, collaborations, and interesting conversations.<br/>
+  Whether it's a project idea, technical challenge, or just a friendly hello — my inbox is open.</i>
+</p>
+
+<br/>
+
+<a href="mailto:mahdializada761@gmail.com">
+  <img src="https://img.shields.io/badge/-Send%20me%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/mohammad-mahdi-alizada-3a57b2274" target="_blank">
+  <img src="https://img.shields.io/badge/-Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://mahdi-alizada-portfolio.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/-Visit%20My%20Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</div>
+
+<br/>
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!--                          🌊  WAVE FOOTER                              -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=140&section=footer&text=Thanks%20for%20visiting%20%E2%9C%A8&fontColor=fff&fontSize=22&animation=twinkling&fontAlignY=70"/>
+
+<sub><i>⭐️ From <a href="https://github.com/mahdializada">@mahdializada</a> · Crafted with passion in Kabul, Afghanistan 🇦🇫</i></sub>
+
+</div>
